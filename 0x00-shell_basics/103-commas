@@ -1,2 +1,2 @@
-#!/bin/basH
-ls -pma
+#!/bin/bash
+ls -pam
